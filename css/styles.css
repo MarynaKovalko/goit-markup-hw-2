@@ -48,7 +48,6 @@ a {
 }
 
 .header-address-link {
-    font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -72,7 +71,6 @@ a {
     font-size: 56px;
     line-height: 1.07;
     letter-spacing: 0.02em;
-    text-align: center;
     color: #fff;
 }
 
@@ -135,6 +133,7 @@ a {
 
 .team {
     background: #f4f4fd;
+    text-transform: capitalize;
 }
 
 .team-title {
@@ -142,9 +141,7 @@ a {
     font-size: 36px;
     line-height: 1.11;
     letter-spacing: 0.02em;
-    text-align: center;
     color: #2e2f42;
-    text-transform: capitalize;
 }
 
 .team-menu-list {}
@@ -153,14 +150,15 @@ a {
     background-color: #FFFFFF
 }
 
-.team-image {}
+.team-image {
+    background-color: #fff
+}
 
 .team-subtitle {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
-    text-align: center;
     color: #2e2f42;
 }
 
@@ -168,7 +166,6 @@ a {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    text-align: center;
     color: #434455;
 }
 
