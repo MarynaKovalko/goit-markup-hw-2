@@ -43,7 +43,9 @@ a {
     color: #404bbf;
 }
 
-.header-address {}
+.header-address {
+    font-style: normal;
+}
 
 .header-address-link {
     font-weight: 400;
@@ -145,11 +147,11 @@ a {
     text-transform: capitalize;
 }
 
-.team-menu-list {
-    background-color: #FFFFFF;
-}
+.team-menu-list {}
 
-.team-menu-item {}
+.team-menu-item {
+    background-color: #FFFFFF
+}
 
 .team-image {}
 
