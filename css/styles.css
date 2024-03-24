@@ -125,116 +125,116 @@ a {
     border: 0;
     padding: 0;
     white-space: nowrap;
-    clip-path: inset(100%);
-    clip: rect(0 0 0 0);
     overflow: hidden;
-    /*------------------------------------------*/
+}
 
-    /*-----------------Our Team----------------*/
+/*------------------------------------------*/
 
-    .team {
-        background: #f4f4fd;
-        text-transform: capitalize;
-    }
+/*-----------------Our Team----------------*/
 
-    .team-title {
-        font-weight: 700;
-        font-size: 36px;
-        line-height: 1.11;
-        letter-spacing: 0.02em;
-        color: #2e2f42;
-        text-align: center;
-    }
+.team {
+    background: #f4f4fd;
+    text-transform: capitalize;
+}
 
-    .team-menu-list {}
+.team-title {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+    text-align: center;
+}
 
-    .team-menu-item {
-        background-color: #FFFFFF
-    }
+.team-menu-list {}
 
-    .team-image {
-        background-color: #fff
-    }
+.team-menu-item {
+    background-color: #FFFFFF
+}
 
-    .team-subtitle {
-        font-weight: 500;
-        font-size: 20px;
-        line-height: 1.2;
-        letter-spacing: 0.02em;
-        color: #2e2f42;
-    }
+.team-image {
+    background-color: #fff
+}
 
-    .team-menu-text {
-        font-size: 16px;
-        line-height: 1.5;
-        letter-spacing: 0.02em;
-        color: #434455;
-    }
+.team-subtitle {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
 
-    /*------------------------------------------*/
+.team-menu-text {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
 
-    /*---------------Our Portfol----------------*/
+/*------------------------------------------*/
 
-    .portfolio {}
+/*---------------Our Portfol----------------*/
 
-    .portfolio-title {
-        font-weight: 700;
-        font-size: 36px;
-        line-height: 1.11;
-        letter-spacing: 0.02em;
-        text-align: center;
-        color: #2e2f42;
-        text-transform: capitalize;
-    }
+.portfolio {}
 
-    .portfolio-list {}
+.portfolio-title {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #2e2f42;
+    text-transform: capitalize;
+}
 
-    .portfolio-item {}
+.portfolio-list {}
 
-    .portfolio-image {}
+.portfolio-item {}
 
-    .portfolio-subtitle {
-        font-weight: 500;
-        font-size: 20px;
-        line-height: 1.2;
-        letter-spacing: 0.02em;
-        color: #2e2f42;
-    }
+.portfolio-image {}
 
-    .portfolio-text {
-        font-size: 16px;
-        line-height: 1.5;
-        letter-spacing: 0.02em;
-        color: #434455;
-    }
+.portfolio-subtitle {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
 
-    /*----------------------------------------*/
+.portfolio-text {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
 
-    /*---------------Futer--------------------*/
+/*----------------------------------------*/
 
-    .futer {
-        background-color: #2e2f42;
-    }
+/*---------------Futer--------------------*/
 
-    .futer-logo {
-        font-family: "Raleway", sans-serif;
-        font-weight: 700;
-        font-size: 18px;
-        line-height: 1.17;
-        letter-spacing: 0.03em;
-        text-transform: uppercase;
-        color: #4d5ae5;
-    }
+.futer {
+    background-color: #2e2f42;
+}
 
-    .futer-logo-color {
-        color: #f4f4fd;
-    }
+.futer-logo {
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
+}
 
-    .futer-text {
-        font-size: 16px;
-        line-height: 1.5;
-        letter-spacing: 0.02em;
-        color: #F4F4FD;
-    }
+.futer-logo-color {
+    color: #f4f4fd;
+}
 
-    /*--------------------------*/
+.futer-text {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #F4F4FD;
+}
+
+/*--------------------------*/
