@@ -84,7 +84,7 @@ a {
 }
 
 .headline-btn {
-    font-weight: 500;
+    font-family: "Roboto", sans-serif font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.04em;
@@ -139,7 +139,9 @@ a {
 
 /*-----------------Our Team----------------*/
 
-.team {}
+.team {
+    background: #f4f4fd;
+}
 
 .team-title {
     font-weight: 700;
@@ -148,9 +150,12 @@ a {
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
+    text-transform: capitalize
 }
 
-.team-menu-list {}
+.team-menu-list {
+    background-color: #FFFFFF
+}
 
 .team-menu-item {}
 
@@ -188,6 +193,7 @@ a {
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
+    text-transform: capitalize
 }
 
 .portfolio-list {}
@@ -237,7 +243,7 @@ a {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #f4f4fd;
+    color: #F4F4FD;
 }
 
 /*--------------------------*/
